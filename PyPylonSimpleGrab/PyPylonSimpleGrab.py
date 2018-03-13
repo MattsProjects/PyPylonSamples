@@ -20,7 +20,6 @@
 #	IS OUTSIDE THE SCOPE OF THIS LICENSE.
 #
 # Based on PyPylon (https://github.com/StudentCV/PyPylon) Thank you StudentCV!
-*/
 
 import pypylon.pylon as pylon
 import cv2 # optional for this example
